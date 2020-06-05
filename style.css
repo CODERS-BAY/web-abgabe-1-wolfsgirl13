@@ -1,9 +1,9 @@
 body{
     background-color: cornflowerblue;
 }
-h1{background-color: darkblue;
-color: rgb(215, 223, 215);}
+h1{background-color: darkseagreen;
+color: rgb(28, 36, 28);}
 em{
-    color: darkkhaki;
-    background-color: darkred;
+    color: rgb(68, 67, 56);
+    background-color: rgb(197, 226, 150);
 }
